@@ -9,14 +9,10 @@
 
 name  : Judy
 
-email  : jootopia@swu.ac.kr
+<img src="https://img.shields.io/badge/jootopia@swu.ac.kr-999999?style=flat-square&logo=maildotcom&logoColor=black"/>
 
 
-blog   : https://jootopia0808.tistory.com/
-
-
-<img src="https://img.shields.io/badge/c-999999?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/python-999999?style=flat-square&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/c-999999?style=flat-square&logo=c&logoColor=black"/><img src="https://img.shields.io/badge/python-999999?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/python-999999?style=flat-square&logo=Linux&logoColor=white"/>
 
 
 
