@@ -20,7 +20,7 @@
 
 STUDY
 
-<img src="https://img.shields.io/badge/C-999999?style=flat-square&logo=c&logoColor=black"/>        <img src="https://img.shields.io/badge/python-999999?style=flat-square&logo=Python&logoColor=white"/>        <img src="https://img.shields.io/badge/Linux-999999?style=flat-square&logo=Linux&logoColor=white"/><img src="https://img.shields.io/badge/C++-999999?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-999999?style=flat-square&logo=c&logoColor=black"/>        <img src="https://img.shields.io/badge/python-999999?style=flat-square&logo=Python&logoColor=white"/>        <img src="https://img.shields.io/badge/Linux-999999?style=flat-square&logo=Linux&logoColor=white"/>     <img src="https://img.shields.io/badge/C++-999999?style=flat-square&logo=C++&logoColor=white"/>
 
 
 
