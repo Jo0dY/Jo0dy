@@ -6,18 +6,15 @@
 
 ☑ Introduction
 
-
 name  : Judy
 
-
 email  : jootopia@swu.ac.kr
-
 
 blog   : https://jootopia0808.tistory.com/
 
 
 
-☑ skill
+
 
 
 
