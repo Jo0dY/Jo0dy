@@ -2,13 +2,25 @@
 ![header](https://capsule-render.vercel.app/api?type=Shark&color=random&height=300&section=header&text=Wellcome%20to%20jootopia&fontSize=50)
 
 
+
+
 ☑ Introduction
+
 
 name  : Judy
 
+
 email  : jootopia@swu.ac.kr
 
+
 blog   : https://jootopia0808.tistory.com/
+
+
+
+☑ skill
+
+
+
 
 
 <!--
