@@ -17,13 +17,14 @@ blog   : https://jootopia0808.tistory.com/
 
 
 
-
-
-
-
 ☑ skill
 
-<img src="https://img.shields.io/badge/#A8B9CCstyle=for-the-badge&logo=c&logoColor=black">
+
+
+
+
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jootopia0808)](https://solved.ac/jootopia)
 
 
 
