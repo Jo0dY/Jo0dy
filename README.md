@@ -7,11 +7,9 @@
 ☑ Introduction
 
 
-name  : Judy
-
-<img src="https://img.shields.io/badge/jootopia@swu.ac.kr-999999?style=flat-square&logo=maildotcom&logoColor=black"/>
-
-
+<img src="https://img.shields.io/badge/nickname-999999?style=flat-square&logo=amazoniam&logoColor=black"/>: Judy
+<img src="https://img.shields.io/badge/mail-999999?style=flat-square&logo=maildotcom&logoColor=black"/> : jootopia@swu.ac.kr
+<img src="https://img.shields.io/badge/blog-999999?style=flat-square&logo=blogger&logoColor=black"/>
 <img src="https://img.shields.io/badge/c-999999?style=flat-square&logo=c&logoColor=black"/><img src="https://img.shields.io/badge/python-999999?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/python-999999?style=flat-square&logo=Linux&logoColor=white"/>
 
 
