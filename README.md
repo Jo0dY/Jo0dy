@@ -18,6 +18,8 @@
 
 
 
+STUDY
+
 <img src="https://img.shields.io/badge/c-999999?style=flat-square&logo=c&logoColor=black"/>        <img src="https://img.shields.io/badge/python-999999?style=flat-square&logo=python&logoColor=white"/>        <img src="https://img.shields.io/badge/Linux-999999?style=flat-square&logo=Linux&logoColor=white"/>
 
 
