@@ -5,7 +5,14 @@
 
 
 
+
+
+
+
+
+
 <img src="https://img.shields.io/badge/mail-EF2D5E?style=flat-square&logo=maildotcom&logoColor=black"/> : jootopia@swu.ac.kr
+
 
 <img src="https://img.shields.io/badge/blog-EF2D5E?style=flat-square&logo=blogger&logoColor=black"/> : https://jootopia0808.tistory.com/
 
