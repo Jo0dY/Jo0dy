@@ -13,8 +13,8 @@
 
 <img src="https://img.shields.io/badge/mail-EF2D5E?style=flat-square&logo=maildotcom&logoColor=white"/> 
 <a href="jootopia@swu.ac.kr"><img src="img src="https://img.shields.io/badge/mail-EF2D5E?style=flat-square&logo=maildotcom&logoColor=white"/></a>
- <a href="https://jootopia0808.tistory.com/"><img src="img src="https://img.shields.io/badge/blog-EF2D5E?style=flat-square&logo=blogger&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/blog-EF2D5E?style=flat-square&logo=blogger&logoColor=white"/> 
+<a href="https://jootopia0808.tistory.com"><img src="img src="https://img.shields.io/badge/blog-EF2D5E?style=flat-square&logo=blogger&logoColor=white"/></a>
 
 
 
