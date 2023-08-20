@@ -4,10 +4,6 @@
 
 
 
-☑ Introduction
-
-
-<img src="https://img.shields.io/badge/nickname-EF2D5E?style=flat-square&logo=amazoniam&logoColor=black"/>: Judy
 
 <img src="https://img.shields.io/badge/mail-EF2D5E?style=flat-square&logo=maildotcom&logoColor=black"/> : jootopia@swu.ac.kr
 
