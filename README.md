@@ -15,6 +15,7 @@ email  : jootopia@swu.ac.kr
 blog   : https://jootopia0808.tistory.com/
 
 
+<img src="https://img.shields.io/badge/c-FFCA28?style=flat-square&logo=c&logoColor=black"/>
 
 
 
