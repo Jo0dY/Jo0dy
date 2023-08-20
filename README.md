@@ -23,7 +23,7 @@ blog   : https://jootopia0808.tistory.com/
 
 ☑ skill
 
-<img src="https://img.shields.io/badge/#40AEF0?style=for-the-badge&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/#A8B9CCstyle=for-the-badge&logo=c&logoColor=black">
 
 
 
