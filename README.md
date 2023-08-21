@@ -1,5 +1,5 @@
 ###                                                                                                            
-![header](https://capsule-render.vercel.app/api?type=wave&color=999999&height=150&section=header&text=Wellcome%20to%20jootopia&fontSize&color=50&white)
+![header](https://capsule-render.vercel.app/api?type=wave&color=999999&height=150&section=header&text=Wellcome%20to%20jootopia&fontSize=50)
 
 
 
