@@ -42,6 +42,8 @@
 - 2024년 서울여자대학교 개인정보보호사업단 소학회 프라이버 SWU
 - 2025년 ICT 한이음 드림업(舊 ICT 멘토링)
 
+<br>
+
 ### Project
 
 ---
@@ -57,6 +59,7 @@
 - 2025년 바종설 _ 프로젝트 진행 [ 홈페이지 개발 및 배포]
 - 2025년 한이음 : 스마트 홈 IoT 보안 솔루션 개발
 
+<br>
 
 ### Achievement & Certificate
 
@@ -91,6 +94,7 @@ jootopia@swu.ac.kr
 <br>
 <br>
 
+### etc.
 
  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jootopia0808)](https://solved.ac/jootopia)
 
