@@ -11,7 +11,7 @@
 
 <br>
 
-## work experience
+### work experience
 ---
 
 - 2024년 두나무 인턴 리서치팀 소속
@@ -71,6 +71,8 @@
 
 ### Contact
 
+--- 
+
 jootopia@swu.ac.kr
 
 [인스타그램](https://www.instagram.com/im_jo0dy?igsh=MW5xeGNscDhkcDlibg==&utm_source=qr)
@@ -79,11 +81,15 @@ jootopia@swu.ac.kr
 
 ### 🏳️ Blog & Github
 
+---
+
 [티스토리](https://jootopia0808.tistory.com/)
 
 
 
-
+<br>
+<br>
+<br>
 
 
  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jootopia0808)](https://solved.ac/jootopia)
