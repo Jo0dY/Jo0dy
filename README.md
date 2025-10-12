@@ -79,7 +79,7 @@
 
 jootopia@swu.ac.kr
 
-[인스타그램](https://www.instagram.com/im_jo0dy?igsh=MW5xeGNscDhkcDlibg==&utm_source=qr)
+[Instagram](https://www.instagram.com/im_jo0dy?igsh=MW5xeGNscDhkcDlibg==&utm_source=qr)
 
 <br>
 
@@ -87,7 +87,7 @@ jootopia@swu.ac.kr
 
 ---
 
-[티스토리](https://jootopia0808.tistory.com/)
+[Tistroy](https://jootopia0808.tistory.com/)
 
 <br>
 
