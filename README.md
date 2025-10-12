@@ -1,5 +1,5 @@
 ###                                                                                                            
-![header](https://capsule-render.vercel.app/api?type=soft&color=999999&height=150&section=header&text=Wellcome%20to%20jootopia&fontSize=50)
+![header](<img width="1112" height="220" alt="Image" src="https://github.com/user-attachments/assets/20b767e1-402f-45fc-95eb-e571be8c9b7d" />)
 
 
 
