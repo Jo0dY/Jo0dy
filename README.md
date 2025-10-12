@@ -12,8 +12,9 @@
 <br>
 
 ## work experience
+---
 
-- 2024년 6-8월 두나무 인턴 리서치팀 소속
+- 2024년 두나무 인턴 리서치팀 소속
 
 <br>
 
@@ -57,7 +58,7 @@
 - 2025년 한이음 : 스마트 홈 IoT 보안 솔루션 개발
 
 
-### **Achievement & Certificate**
+### Achievement & Certificate
 
 ---
 
@@ -79,29 +80,6 @@ jootopia@swu.ac.kr
 ### 🏳️ Blog & Github
 
 [티스토리](https://jootopia0808.tistory.com/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
