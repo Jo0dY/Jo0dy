@@ -82,16 +82,12 @@ jootopia@swu.ac.kr
 
 <br>
 
-### Blog & Github
+### Blog 
 
 ---
 
 [티스토리](https://jootopia0808.tistory.com/)
 
-
-
-<br>
-<br>
 <br>
 
 ### etc.
