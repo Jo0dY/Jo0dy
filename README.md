@@ -42,7 +42,7 @@
 - 2024년 서울여자대학교 개인정보보호사업단 소학회 프라이버 SWU
 - 2025년 ICT 한이음 드림업(舊 ICT 멘토링)
 - 2025년 개인정보 처리방침 이용자 평가단
-- 2025년 Knights Frontier 1기 : [Knights Rrontier 활동](https://github.com/Jo0dY/Knights-Frontier)
+- 2025년 Knights Frontier 1기 : [Knights Frontier 활동](https://github.com/Jo0dY/Knights-Frontier)
 
 <br>
 
