@@ -82,15 +82,12 @@ jootopia@swu.ac.kr
 
 [Instagram](https://www.instagram.com/im_jo0dy?igsh=MW5xeGNscDhkcDlibg==&utm_source=qr)
 
-<br>
 
 ### Blog 
 
 ---
-
 [Tistroy](https://jootopia0808.tistory.com/)
 
-<br>
 
 ### etc.
 
