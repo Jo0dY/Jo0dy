@@ -52,7 +52,7 @@
 - 2023년 GURU1 Unity  해커톤 (게임 vaccinator 개발) 
 - 2023년 GURU2 Android  해커톤 (심리테스트 앱 개발) : [마음심리앱](https://github.com/Jo0dY/Android_14)
 - 2023년 정보보호 정책 공모전
-- 2023년 소학회 홈페이지 개발 프로젝트 : [미완성_홈페이지](https://github.com/swuswlug/webdev)
+- 2023년 소학회 홈페이지 개발 프로젝트 : [미완성](https://github.com/swuswlug/webdev)
 - 2023년 업투 2기 팀프로젝트 : 텀블벅 펀딩 & 아이디어 제안(디지털 취약계층을 위한 프로젝트 및 펀딩 후원)
 - 2024년 소학회 파이썬 & 보안 팀프로젝트 : FTP 무작위 대입 공격 도구 실습 & 개발
 - 2024년 취약점 분석 스터디 및 팀프로젝트
